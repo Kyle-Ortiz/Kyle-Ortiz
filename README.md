@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a group project using Nextjs and Nodejs for the DeveloperWeek 2022 Hackathon
 - 🌱 I’m currently learning Nextjs and Python
-- 🥅 2022 Goals: Land my first software engineering position, and deploy more of my person projects
+- 🥅 2022 Goals: Land my first software engineering position, and deploy more of my personal projects
 
 
 ### Connect with me:

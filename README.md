@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
- - 📩 Email: kyleaortiz@gmail.com
- - 🌐 LinkedIn: [linkedin]
+ - 📩 [Email]
+ - 🌐 [linkedin]
 
 
 
@@ -24,4 +24,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/kyleortiz/
+[LinkedIn]: https://linkedin.com/in/kyleortiz/
+[Email]: kyleaortiz@gmail.com

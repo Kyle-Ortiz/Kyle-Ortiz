@@ -10,7 +10,7 @@
 ### Connect with me:
 
  - 📩 [Email]
- - 🌐 [linkedin]
+ - 🌐 [LinkedIn]
 
 
 

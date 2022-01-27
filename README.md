@@ -11,6 +11,7 @@
 
  - 📩 [Email]
  - 🌐 [LinkedIn]
+ - 📝 [Blog]
 
 
 
@@ -26,3 +27,4 @@
 
 [LinkedIn]: https://linkedin.com/in/kyleortiz/
 [Email]: kyleaortiz@gmail.com
+[Blog]: https://dev.to/kyleortiz
